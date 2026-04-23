@@ -98,7 +98,7 @@ The correct password was identified based on the redirect behavior of the applic
 ![payload](images/payload.png)
 
 - Attack results
-![attacktable](attacktable.png)
+![table](images/table.png)
 
 ## 🧠 Learning Outcomes
 - Learned brute-force attacks
