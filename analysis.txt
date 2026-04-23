@@ -1,0 +1,9 @@
+Login request was intercepted using Burp Suite.
+
+The password parameter was selected for brute-force testing using Intruder.
+
+Multiple password attempts were sent automatically.
+
+The correct password was identified by analyzing response show "Location: index.php".
+
+This shows the system is vulnerable to brute-force attacks due to lack of protection mechanisms.

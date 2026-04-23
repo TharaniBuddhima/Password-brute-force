@@ -1,0 +1,10 @@
+Start Burp Suite
+Proxy: 127.0.0.1:8080
+Intercept: ON
+
+Steps:
+1. Capture login request
+2. Send to Intruder
+3. Set attack position
+4. Load payloads
+5. Start attack
